@@ -8,6 +8,10 @@ body {
     font-family: "Ubuntu", sans-serif;
 }
 
+hr {
+    width: 25%;
+}
+
 a.anchor {
     display: block;
     position: relative;
@@ -184,8 +188,4 @@ a.anchor {
 
 #contact a {
     text-decoration: none;
-}
-
-hr {
-    width: 25%;
 }
