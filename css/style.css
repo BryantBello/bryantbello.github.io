@@ -80,8 +80,8 @@ a.anchor {
 
 .thumbnail-hover {
     position: absolute;
-    top: 2px;
-    left: 2px;
+    top: 3px;
+    left: 3px;
     height: 99%;
     width: 99%;
     opacity: 0;
@@ -145,7 +145,7 @@ a.anchor {
     float: left;
     display: inline-block;
     vertical-align: middle;
-    padding: 6% 2%;
+    padding: 6% 3%;
 }
 
 #contact {
